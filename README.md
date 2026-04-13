@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .help one-word domains from Unique
 
 **Public extract:** 8,356 rows · **Live catalog:** 8,356 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/help`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | aladdin.help   | available | $43.98    | —             | 76             | 67     | 7      | namecheap                          |
 | universal.help | resell    | —         | —             | 96             | 81     | 9      | Dynadot LLC                        |
 | seventeen.help | premium   | $91       | $130          | 84             | 62     | 9      | namecheap                          |
-| awake.help     | available | $43.98    | —             | 86             | 39     | 5      | namecheap                          |
+| awake.help     | available | $43.98    | —             | 86             | 38     | 5      | namecheap                          |
 | hello.help     | resell    | —         | —             | 130            | 70     | 5      | West263 International Limited      |
 | ace.help       | premium   | $455      | $650          | 88             | 57     | 3      | namecheap                          |
 | moonlight.help | available | $43.98    | —             | 80             | 31     | 9      | namecheap                          |
@@ -77,10 +77,10 @@ print(df.head())
 | live.help      | resell    | —         | —             | 108            | 56     | 4      | West263 International Limited      |
 | athletics.help | premium   | $65       | $130          | 69             | 52     | 9      | namecheap                          |
 | lovely.help    | available | $43.98    | —             | 72             | 31     | 6      | namecheap                          |
-| limitless.help | resell    | —         | —             | 76             | 56     | 9      | Key-Systems LLC                    |
+| data.help      | resell    | —         | —             | 70             | 56     | 4      | Porkbun, LLC                       |
 | abc.help       | premium   | $325      | $650          | 102            | 50     | 3      | namecheap                          |
 | elegant.help   | available | $43.98    | —             | 94             | 24     | 7      | namecheap                          |
-| data.help      | resell    | —         | —             | 70             | 56     | 4      | Porkbun, LLC                       |
+| limitless.help | resell    | —         | —             | 76             | 55     | 9      | Key-Systems LLC                    |
 | clear.help     | premium   | $91       | $130          | 90             | 49     | 5      | namecheap                          |
 | remedial.help  | available | $43.98    | —             | 86             | 24     | 8      | namecheap                          |
 | jesus.help     | resell    | —         | —             | 126            | 52     | 5      | Gransy s.r.o.                      |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HELP One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HELP One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
