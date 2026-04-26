@@ -1,22 +1,22 @@
-# Available .HELP One-Word Domains (8,356)
+# Available .HELP One-Word Domains (10,598)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C356%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C356%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C598%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .help one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .help one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,598 domains** on the canonical page below.
 
-**Public extract:** 8,356 rows · **Live catalog:** 8,356 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,598 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/help`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .HELP one-word domain 
 
 ### Files
 
-- `help.csv` — public CSV extract (8,356 rows)
-- `help.json` — public JSON extract (8,356 rows)
+- `help.csv` — public CSV extract (1,000 rows)
+- `help.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
-| aladdin.help   | available | $43.98    | —             | 76             | 67     | 7      | namecheap                          |
-| universal.help | resell    | —         | —             | 96             | 81     | 9      | Dynadot LLC                        |
-| seventeen.help | premium   | $91       | $130          | 84             | 62     | 9      | namecheap                          |
-| awake.help     | available | $43.98    | —             | 86             | 38     | 5      | namecheap                          |
-| hello.help     | resell    | —         | —             | 130            | 70     | 5      | West263 International Limited      |
-| ace.help       | premium   | $455      | $650          | 88             | 57     | 3      | namecheap                          |
-| moonlight.help | available | $43.98    | —             | 80             | 31     | 9      | namecheap                          |
-| sex.help       | resell    | —         | —             | 98             | 59     | 3      | Global Domains International, Inc. |
-| art.help       | premium   | $1,300    | $2,600        | 90             | 52     | 3      | namecheap                          |
-| building.help  | available | $43.98    | —             | 74             | 31     | 8      | namecheap                          |
-| live.help      | resell    | —         | —             | 108            | 56     | 4      | West263 International Limited      |
-| athletics.help | premium   | $65       | $130          | 69             | 52     | 9      | namecheap                          |
-| lovely.help    | available | $43.98    | —             | 72             | 31     | 6      | namecheap                          |
-| data.help      | resell    | —         | —             | 70             | 56     | 4      | Porkbun, LLC                       |
-| abc.help       | premium   | $325      | $650          | 102            | 50     | 3      | namecheap                          |
-| elegant.help   | available | $43.98    | —             | 94             | 24     | 7      | namecheap                          |
-| limitless.help | resell    | —         | —             | 76             | 55     | 9      | Key-Systems LLC                    |
-| clear.help     | premium   | $91       | $130          | 90             | 49     | 5      | namecheap                          |
-| remedial.help  | available | $43.98    | —             | 86             | 24     | 8      | namecheap                          |
-| jesus.help     | resell    | —         | —             | 126            | 52     | 5      | Gransy s.r.o.                      |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| CocaCola.help     | available | $43.98    | —             | 92             | 82     | 9      | namecheap       |
+| education.help    | resell    | —         | —             | 86             | 32     | 9      | Dynadot LLC     |
+| winners.help      | premium   | $83.30    | $116          | 60             | 81     | 7      | namesilo        |
+| deeplearning.help | available | $1.99     | —             | 74             | 23     | 13     | name.com        |
+| motorsport.help   | resell    | —         | —             | 74             | 23     | 10     | Key-Systems LLC |
+| RedSox.help       | premium   | $98       | $140          | 72             | 60     | 7      | namecheap       |
+| Places.help       | available | $43.98    | —             | 74             | 22     | 6      | namecheap       |
+| registration.help | resell    | —         | —             | 75             | 19     | 12     | Porkbun, LLC    |
+| regions.help      | premium   | $87.50    | —             | 64             | 59     | 7      | name.com        |
+| machines.help     | available | $1.99     | —             | 56             | 22     | 8      | name.com        |
+| godmode.help      | resell    | —         | —             | 74             | 19     | 8      | 1API GmbH       |
+| events.help       | premium   | $87.50    | —             | 68             | 37     | 6      | name.com        |
+| Allie.help        | available | $43.98    | —             | 72             | 21     | 5      | namecheap       |
+| leasing.help      | resell    | —         | —             | 70             | 17     | 7      | Name.com, Inc   |
+| yellowpages.help  | premium   | $87.50    | —             | 78             | 32     | 12     | name.com        |
+| designs.help      | available | $1.99     | —             | 72             | 21     | 7      | name.com        |
+| keepfaith.help    | resell    | —         | —             | 82             | 3      | 10     | Key-Systems LLC |
+| teams.help        | premium   | $98       | $140          | 62             | 32     | 5      | namecheap       |
+| studios.help      | available | $1.99     | —             | 54             | 21     | 7      | name.com        |
+| prosandcons.help  | resell    | —         | —             | 59             | 3      | 13     | Key-Systems LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,356-row public sample | 8,356 live domains                               |
+| 1,000-row public sample | 10,598 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HELP One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HELP One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
