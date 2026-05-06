@@ -301,6 +301,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1d5d78ce-b22a-49f9-a940-deded65f4522,solarenergy.help,available,1.99,,88,16,12,name.com,,
 1d632809-8c2d-4799-9731-e7be95b6a5c4,leaveoff.help,available,1.99,,72,1,9,name.com,,
 1d72a12a-dd7b-4bec-8203-14b7d2b72f97,shoveover.help,available,1.99,,59,1,10,name.com,,
+1ddb83f3-5f12-4fc5-8a6a-d7ee92fedc67,banana.help,resell,,,86,41,6,Dynadot LLC,22/08/2025 00:11,22/08/2026 23:59
 1e2bd663-e2b2-4754-aa7c-62c5781384fa,Idodeclare.help,available,43.98,,58,2,12,namecheap,,
 1e39bf6f-9dff-48e2-ab85-8c470b991326,bicycles.help,available,1.99,,68,9,8,name.com,,
 1e544733-449c-4760-9794-7def53adb864,showedup.help,available,1.99,,59,1,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5d8af97d-e199-424f-8401-f33f13fab195,buses.help,premium,87.5,,58,10,5,name.com,,
 5d94dd25-829a-45bb-8b50-17fbaefff921,CountyofRiley.help,available,1.99,,42,1,15,name.com,,
 5d9fe06b-ea30-48b9-aeee-1d445e94bf24,desktoptoy.help,available,1.99,,50,1,11,name.com,,
-5da20b23-f74f-42de-9692-13b073678381,slowed.help,available,1.99,,48,3,6,name.com,,
