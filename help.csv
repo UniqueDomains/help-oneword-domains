@@ -102,6 +102,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0a3d73b4-70bb-414f-9c1c-25f143e2d51a,Ichooseviolence.help,available,43.98,,44,1,17,namecheap,,
 0a5a19fc-3682-483f-8711-78e60cd7d5d5,commonhippopotamus.help,available,1.99,,66,1,19,name.com,,
 0a5c2e26-a847-4e53-a7d3-ca0a2acee057,Ilostmyhandbag.help,available,43.98,,50,1,17,namecheap,,
+0aa209a3-ca55-4577-a777-90cac16f06e4,moderator.help,premium,,,78,10,9,,,
 0aa2acd9-3a58-4625-b317-217d2df92cc4,plateglass.help,available,1.99,,60,1,11,name.com,,
 0adac9d3-e677-4729-92fc-bd1c44967786,inthewind.help,available,1.99,,52,2,11,name.com,,
 0ae55f51-5ab4-41bc-b3d5-5c4eda132126,sees.help,premium,87.5,,52,10,4,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5d6d59b2-db21-4f60-915e-326deef793c6,longterm.help,premium,87.5,,72,10,9,name.com,,
 5d8af97d-e199-424f-8401-f33f13fab195,buses.help,premium,87.5,,58,10,5,name.com,,
 5d94dd25-829a-45bb-8b50-17fbaefff921,CountyofRiley.help,available,1.99,,42,1,15,name.com,,
-5d9fe06b-ea30-48b9-aeee-1d445e94bf24,desktoptoy.help,available,1.99,,50,1,11,name.com,,
