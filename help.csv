@@ -863,6 +863,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 507466ec-b4b4-44b5-9b45-815f02db451b,gonegative.help,available,1.99,,66,1,11,name.com,,
 507de6cb-8309-4b8b-8526-9941feb71a13,breastfeeds.help,available,1.99,,56,1,11,name.com,,
 508f6c5a-e18d-4ab9-ad5b-1b561336916c,asoflate.help,available,1.99,,56,0,10,name.com,,
+509dac1c-c1a7-4155-9d01-a239396431dd,waitingroom.help,premium,,,76,10,12,,,
 50cfa5ab-e463-4b2c-b1a8-a705758632c0,sharps.help,available,1.99,,70,9,6,name.com,,
 50e85bfd-6f57-4e59-8c76-7b1f6ab6d050,finalfrontier.help,available,1.99,,76,7,14,name.com,,
 50fa7777-00e0-4c97-8c1a-d4de93aac909,goupstairs.help,available,1.99,,68,1,11,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5d45a4d6-83d7-494e-a9cb-2f4f859ade15,stabilization.help,available,1.99,,66,3,13,name.com,,
 5d6d59b2-db21-4f60-915e-326deef793c6,longterm.help,premium,87.5,,72,10,9,name.com,,
 5d8af97d-e199-424f-8401-f33f13fab195,buses.help,premium,87.5,,58,10,5,name.com,,
-5d94dd25-829a-45bb-8b50-17fbaefff921,CountyofRiley.help,available,1.99,,42,1,15,name.com,,
