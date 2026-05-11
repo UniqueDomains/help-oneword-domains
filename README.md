@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .help one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,120 domains · **Median ask:** $32.02 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-09  
+**Last updated:** 2026-05-11  
 **Canonical page:** `https://unique.domains/domains/tld/help`  
 **Best for:** founders, investors, studios
 
@@ -77,7 +77,7 @@ print(df.head())
 | godmode.help      | resell    | —         | —             | 74             | 19     | 8      | 1API GmbH                  |
 | yellowpages.help  | premium   | $87.50    | —             | 78             | 32     | 12     | name.com                   |
 | Allie.help        | available | $43.98    | —             | 72             | 21     | 5      | namecheap                  |
-| leasing.help      | resell    | —         | —             | 70             | 17     | 7      | Name.com, Inc              |
+| leasing.help      | resell    | —         | —             | 70             | 19     | 7      | Name.com, Inc              |
 | SanDiego.help     | premium   | $83.30    | $116          | 74             | 29     | 9      | namesilo                   |
 | designs.help      | available | $1.99     | —             | 72             | 21     | 7      | name.com                   |
 | rehabs.help       | resell    | —         | —             | 51             | 8      | 6      | Instra Corporation Pty Ltd |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HELP One-Word Domains*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HELP One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

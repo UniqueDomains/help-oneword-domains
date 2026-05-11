@@ -122,7 +122,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0c3c875f-9a93-4445-bf55-bda6eb41743e,ambulances.help,available,1.99,,58,5,10,name.com,,
 0c6f09d2-4e23-4c5b-8757-7f3725231142,gobananas.help,available,1.99,,74,7,10,name.com,,
 0c6f28de-a6e6-4c66-95aa-c85554a4613a,manyhandedness.help,available,1.99,,64,1,15,name.com,,
-0c76771f-3161-46c6-8922-c122a54c48cb,leasing.help,resell,,,70,17,7,"Name.com, Inc",30/11/2025 07:12,30/11/2026 23:59
+0c76771f-3161-46c6-8922-c122a54c48cb,leasing.help,resell,,,70,19,7,"Name.com, Inc",30/11/2025 07:12,30/11/2026 23:59
 0c83a707-c3a1-43ca-87f9-82ff5a6014b7,turnedoff.help,available,1.99,,42,1,10,name.com,,
 0c87637a-9ec3-43bc-8bf5-e0673529b0e4,oaks.help,premium,83.3,116,53,16,4,namesilo,,
 0c8b06b1-de66-4d9e-b66e-46c717bc930b,expects.help,available,1.99,,50,3,7,name.com,,
