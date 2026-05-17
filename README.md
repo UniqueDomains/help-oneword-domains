@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .help one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,117 domains · **Median ask:** $32.02 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/help`  
 **Best for:** founders, investors, studios
 
@@ -74,16 +74,16 @@ print(df.head())
 | registration.help | resell    | —         | —             | 75             | 19     | 12     | Porkbun, LLC               |
 | events.help       | premium   | $87.50    | —             | 68             | 37     | 6      | name.com                   |
 | machines.help     | available | $1.99     | —             | 56             | 22     | 8      | name.com                   |
-| godmode.help      | resell    | —         | —             | 74             | 19     | 8      | 1API GmbH                  |
+| leasing.help      | resell    | —         | —             | 70             | 19     | 7      | Name.com, Inc              |
 | SanDiego.help     | premium   | $83.30    | $116          | 74             | 29     | 9      | namesilo                   |
 | Allie.help        | available | $43.98    | —             | 72             | 21     | 5      | namecheap                  |
-| leasing.help      | resell    | —         | —             | 70             | 19     | 7      | Name.com, Inc              |
+| godmode.help      | resell    | —         | —             | 74             | 18     | 8      | 1API GmbH                  |
 | blocks.help       | premium   | $87.50    | —             | 53             | 29     | 6      | name.com                   |
 | designs.help      | available | $1.99     | —             | 72             | 21     | 7      | name.com                   |
 | rehabs.help       | resell    | —         | —             | 51             | 8      | 6      | Instra Corporation Pty Ltd |
 | cams.help         | premium   | $83.30    | $116          | 52             | 29     | 4      | namesilo                   |
 | studios.help      | available | $1.99     | —             | 54             | 21     | 7      | name.com                   |
-| keepfaith.help    | resell    | —         | —             | 82             | 3      | 10     | Key-Systems LLC            |
+| prosandcons.help  | resell    | —         | —             | 59             | 3      | 13     | Key-Systems LLC            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HELP One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HELP One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
