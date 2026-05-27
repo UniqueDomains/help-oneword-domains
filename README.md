@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .help one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,117 domains · **Median ask:** $32.02 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/help`  
 **Best for:** founders, investors, studios
 
@@ -67,10 +67,10 @@ print(df.head())
 | CocaCola.help     | available | $43.98    | —             | 92             | 82     | 9      | namecheap                  |
 | banana.help       | resell    | —         | —             | 86             | 41     | 6      | Dynadot LLC                |
 | RedSox.help       | premium   | $98       | $140          | 72             | 60     | 7      | namecheap                  |
-| deeplearning.help | available | $1.99     | —             | 74             | 23     | 13     | name.com                   |
+| Places.help       | available | $43.98    | —             | 74             | 23     | 6      | namecheap                  |
 | motorsport.help   | resell    | —         | —             | 74             | 23     | 10     | Key-Systems LLC            |
 | regions.help      | premium   | $87.50    | —             | 64             | 59     | 7      | name.com                   |
-| Places.help       | available | $43.98    | —             | 74             | 22     | 6      | namecheap                  |
+| deeplearning.help | available | $1.99     | —             | 74             | 23     | 13     | name.com                   |
 | registration.help | resell    | —         | —             | 75             | 19     | 12     | Porkbun, LLC               |
 | events.help       | premium   | $87.50    | —             | 68             | 37     | 6      | name.com                   |
 | machines.help     | available | $1.99     | —             | 56             | 22     | 8      | name.com                   |
@@ -78,10 +78,10 @@ print(df.head())
 | SanDiego.help     | premium   | $83.30    | $116          | 74             | 29     | 9      | namesilo                   |
 | Allie.help        | available | $43.98    | —             | 72             | 21     | 5      | namecheap                  |
 | godmode.help      | resell    | —         | —             | 74             | 18     | 8      | 1API GmbH                  |
-| blocks.help       | premium   | $87.50    | —             | 53             | 29     | 6      | name.com                   |
+| gods.help         | premium   | $87.50    | —             | 72             | 29     | 4      | name.com                   |
 | designs.help      | available | $1.99     | —             | 72             | 21     | 7      | name.com                   |
 | rehabs.help       | resell    | —         | —             | 51             | 8      | 6      | Instra Corporation Pty Ltd |
-| cams.help         | premium   | $83.30    | $116          | 52             | 29     | 4      | namesilo                   |
+| blocks.help       | premium   | $87.50    | —             | 53             | 29     | 6      | name.com                   |
 | studios.help      | available | $1.99     | —             | 54             | 21     | 7      | name.com                   |
 | prosandcons.help  | resell    | —         | —             | 59             | 3      | 13     | Key-Systems LLC            |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HELP One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HELP One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
