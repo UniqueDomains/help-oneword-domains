@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .help one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,117 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,117 domains · **Median ask:** $32.02 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,117 domains · **Median ask:** $51.52 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/help`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/help`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .HELP one-word domain 
 
 ### Files
 
-- `help.csv` — public CSV extract (1,000 rows)
-- `help.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `help.csv`, public CSV extract (1,000 rows)
+- `help.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| CocaCola.help     | available | $43.98    | —             | 92             | 82     | 9      | namecheap                  |
-| banana.help       | resell    | —         | —             | 86             | 41     | 6      | Dynadot LLC                |
-| RedSox.help       | premium   | $98       | $140          | 72             | 60     | 7      | namecheap                  |
-| Places.help       | available | $43.98    | —             | 74             | 23     | 6      | namecheap                  |
-| motorsport.help   | resell    | —         | —             | 74             | 23     | 10     | Key-Systems LLC            |
-| regions.help      | premium   | $87.50    | —             | 64             | 59     | 7      | name.com                   |
-| deeplearning.help | available | $1.99     | —             | 74             | 23     | 13     | name.com                   |
-| registration.help | resell    | —         | —             | 75             | 19     | 12     | Porkbun, LLC               |
-| events.help       | premium   | $87.50    | —             | 68             | 37     | 6      | name.com                   |
-| machines.help     | available | $1.99     | —             | 56             | 22     | 8      | name.com                   |
-| leasing.help      | resell    | —         | —             | 70             | 19     | 7      | Name.com, Inc              |
-| SanDiego.help     | premium   | $83.30    | $116          | 74             | 29     | 9      | namesilo                   |
-| Allie.help        | available | $43.98    | —             | 72             | 21     | 5      | namecheap                  |
-| godmode.help      | resell    | —         | —             | 74             | 18     | 8      | 1API GmbH                  |
-| gods.help         | premium   | $87.50    | —             | 72             | 29     | 4      | name.com                   |
-| designs.help      | available | $1.99     | —             | 72             | 21     | 7      | name.com                   |
-| rehabs.help       | resell    | —         | —             | 51             | 8      | 6      | Instra Corporation Pty Ltd |
-| blocks.help       | premium   | $87.50    | —             | 53             | 29     | 6      | name.com                   |
-| studios.help      | available | $1.99     | —             | 54             | 21     | 7      | name.com                   |
-| prosandcons.help  | resell    | —         | —             | 59             | 3      | 13     | Key-Systems LLC            |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| irons.help  | available | $1.99     | —             | medium         | low    | 5      | name.com                      |
+| live.help   | resell    | —         | —             | high           | medium | 4      | West263 International Limited |
+| act.help    | premium   | $218.75   | —             | high           | low    | 3      | name.com                      |
+| jolly.help  | available | $1.99     | —             | medium         | low    | 5      | name.com                      |
+| pizza.help  | resell    | —         | —             | high           | low    | 5      | Porkbun, LLC                  |
+| all.help    | premium   | $91       | $130          | high           | medium | 3      | namecheap                     |
+| kinda.help  | available | $43.98    | —             | high           | low    | 5      | namecheap                     |
+| young.help  | resell    | —         | —             | high           | low    | 5      | Dynadot LLC                   |
+| AOL.help    | premium   | $437.50   | —             | high           | high   | 3      | name.com                      |
+| abject.help | available | $3.99     | $50.99        | high           | low    | 6      | name.com                      |
+| fourth.help | resell    | —         | —             | medium         | low    | 6      | Namecheap                     |
+| are.help    | premium   | $83.30    | $116          | high           | low    | 3      | namesilo                      |
+| abkhas.help | available | $3.99     | $50.99        | medium         | low    | 6      | name.com                      |
+| income.help | resell    | —         | —             | high           | low    | 6      | Porkbun, LLC                  |
+| ash.help    | premium   | $437.50   | —             | medium         | low    | 3      | name.com                      |
+| aboard.help | available | $1.99     | —             | medium         | low    | 6      | name.com                      |
+| policy.help | resell    | —         | —             | high           | low    | 6      | Porkbun, LLC                  |
+| bad.help    | premium   | $218.75   | —             | high           | medium | 3      | name.com                      |
+| abroad.help | available | $1.99     | $50.99        | high           | low    | 6      | name.com                      |
+| rested.help | resell    | —         | —             | high           | low    | 6      | Key-Systems LLC               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names in the .help extension. The set includes direct action terms like act.help and install.help, broad nouns like someone.help, and more difficult terms such as corrupt.help or jail.help. For founders, the strongest picks usually read clearly, match a support or assistance use case, and are easy to remember when spoken aloud. For investors, quality depends on practical end-user fit, clean semantics, and disciplined entry price. The median ask in this selection is 32.02, but pricing alone is not enough. When comparing these domains, focus on relevance, clarity, potential trademark conflict, and whether the word makes sense with .help.
+This selection covers one-word .help domain names across 11,117 entries, with a median asking price of $51.52. Many combine everyday verbs and nouns—getmoving.help, herbbutter.help, coffeecupful.help—while a few carry established brand terms like Chanel.help. The .help extension signals support, guidance, or service-oriented positioning, making these names suitable for helpdesks, customer service tools, and community resources. Pricing varies by word length, dictionary-word status, and brand recognition, so comparing individual listings is essential before choosing one.
 
-- Prefer words that naturally fit support, service, or guidance
-- Check for trademark issues, especially names like Sony.help
-- Clear verbs and nouns often beat abstract or negative terms
-- Use pricing with context; cheap names can still be weak fits
+- 11,117 one-word .help domain names in this selection
+- Median asking price: $51.52 across the set
+- Mix of everyday phrases and brand-adjacent names
+- Well suited for support, service, and helpdesk branding
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HELP One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HELP One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
