@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .help one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 15,845 domains · **Median ask:** $35.80 · **High-demand under $2,500:** 34
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/help`
 **Best for:** founders, investors, studios
 
@@ -65,6 +65,9 @@ print(df.head())
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
 | out.help    | premium   | $437.50   | —             | high           | low    | 3      | name.com                      |
+| bad.help    | premium   | $218.75   | —             | high           | medium | 3      | name.com                      |
+| off.help    | premium   | $437.50   | —             | high           | low    | 3      | name.com                      |
+| bang.help   | premium   | $83.30    | $116          | high           | low    | 4      | namesilo                      |
 | xcvi.help   | available | $1.99     | $50.99        | low            | low    | 4      | name.com                      |
 | live.help   | resell    | —         | —             | high           | medium | 4      | West263 International Limited |
 | act.help    | premium   | $218.75   | —             | high           | low    | 3      | name.com                      |
@@ -81,9 +84,6 @@ print(df.head())
 | policy.help | resell    | —         | —             | high           | low    | 6      | Porkbun, LLC                  |
 | are.help    | premium   | $83.30    | $116          | high           | low    | 3      | namesilo                      |
 | kinda.help  | available | $43.98    | —             | high           | low    | 5      | namecheap                     |
-| rested.help | resell    | —         | —             | high           | low    | 6      | Key-Systems LLC               |
-| ash.help    | premium   | $437.50   | —             | medium         | low    | 3      | name.com                      |
-| lviii.help  | available | $1.99     | $50.99        | low            | low    | 5      | name.com                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HELP One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HELP One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
