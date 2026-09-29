@@ -1,10 +1,10 @@
-# Available .HELP One-Word Domains (22,006)
+# Available .HELP One-Word Domains (23,794)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C006%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C794%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .help one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,006 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,794 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,006 domains · **Median ask:** $47.16 · **High-demand under $2,500:** 78
+**Public extract:** 1,000 rows · **Live catalog:** 23,794 domains · **Median ask:** $47.82 · **High-demand under $2,500:** 81
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/help`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| arng.help    | available | $2.19     | $32.49        | medium         | low    | 4      | namesilo                      |
-| usda.help    | resell    | —         | —             | high           | low    | 4      | Key-Systems, LLC              |
-| aku.help     | premium   | $83.30    | $116          | high           | low    | 3      | namesilo                      |
-| baum.help    | available | $2.19     | $32.49        | high           | low    | 4      | namesilo                      |
-| nifty.help   | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                   |
-| apr.help     | premium   | $87.50    | $125          | high           | low    | 3      | name.com                      |
-| lxxx.help    | available | $1.99     | $50.99        | medium         | low    | 4      | name.com                      |
-| gadget.help  | resell    | —         | —             | high           | low    | 6      | West263 International Limited |
-| ban.help     | premium   | $437.50   | $625          | high           | low    | 3      | name.com                      |
-| weil.help    | available | $2.19     | $32.49        | medium         | low    | 4      | namesilo                      |
-| bionics.help | resell    | —         | —             | high           | low    | 7      | Key-Systems, LLC              |
-| bid.help     | premium   | $437.50   | —             | high           | low    | 3      | name.com                      |
-| annwn.help   | available | $2.19     | $32.49        | medium         | low    | 5      | namesilo                      |
-| circles.help | resell    | —         | —             | high           | high   | 7      | —                             |
-| bjs.help     | premium   | $448      | $640          | medium         | low    | 3      | namesilo                      |
-| babar.help   | available | $2.19     | $32.49        | high           | low    | 5      | namesilo                      |
-| culture.help | resell    | —         | —             | high           | medium | 7      | —                             |
-| bps.help     | premium   | $455      | $650          | high           | low    | 3      | namecheap                     |
-| bandy.help   | available | $1.99     | $50.99        | medium         | low    | 5      | name.com                      |
-| journal.help | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                   |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| arng.help     | available | $2.19     | $32.49        | medium         | low    | 4      | namesilo                                            |
+| nifty.help    | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                         |
+| aku.help      | premium   | $83.30    | $116          | high           | low    | 3      | namesilo                                            |
+| baum.help     | available | $2.19     | $32.49        | high           | low    | 4      | namesilo                                            |
+| gadget.help   | resell    | —         | —             | high           | low    | 6      | West263 International Limited                       |
+| apr.help      | premium   | $87.50    | $125          | high           | low    | 3      | name.com                                            |
+| lxxx.help     | available | $1.99     | $50.99        | medium         | low    | 4      | name.com                                            |
+| bionics.help  | resell    | —         | —             | high           | low    | 7      | Key-Systems, LLC                                    |
+| bid.help      | premium   | $455      | $650          | high           | low    | 3      | namecheap                                           |
+| weil.help     | available | $2.19     | $32.49        | medium         | low    | 4      | namesilo                                            |
+| culture.help  | resell    | —         | —             | high           | medium | 7      | —                                                   |
+| bjs.help      | premium   | $448      | $640          | medium         | low    | 3      | namesilo                                            |
+| annwn.help    | available | $2.19     | $32.49        | medium         | low    | 5      | namesilo                                            |
+| journal.help  | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                                         |
+| bps.help      | premium   | $455      | $650          | high           | low    | 3      | namecheap                                           |
+| babar.help    | available | $2.19     | $32.49        | high           | low    | 5      | namesilo                                            |
+| learner.help  | resell    | —         | —             | high           | low    | 7      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| cfr.help      | premium   | $448      | $640          | medium         | low    | 3      | namesilo                                            |
+| bandy.help    | available | $1.99     | $50.99        | medium         | low    | 5      | name.com                                            |
+| sequence.help | resell    | —         | —             | high           | low    | 8      | Porkbun LLC                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,006 live domains                        |
+| 1,000-row public sample | 23,794 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 78 high-demand names under $2,500          |
+| Basic exported fields   | 81 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HELP One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HELP One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
